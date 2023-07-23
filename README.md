@@ -1,1 +1,6 @@
-# Simple-food-order-system-
+# Simple-food-order-system
+# Language
+C++
+# Brand name
+-I take domino as an example...
+in this project, there is a simple project of c++.Simple Food Order System is based on a concept of ordering food items and generating total food cost. There’s no login system in this mini project. Then the user can make an order by selecting from the main menu. This mini project contains limited feature...
